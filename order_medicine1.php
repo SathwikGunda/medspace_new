@@ -5,7 +5,7 @@
     <div class="container">
 
         <!--Section: Post-->
-        <section class="mt-4">
+        <section class="mt-5">
 
             <!--Grid row-->
             <div class="row">
@@ -14,7 +14,7 @@
                 <div class="col-md-8 mx-auto">
 
                     <!--Reply-->
-                    <div class="card mb-3 wow fadeIn">
+                    <div class="card mb-5 wow fadeIn">
                         <div class="card-header font-weight-bold">Order Medicine</div>
                         <div class="card-body">
 
@@ -49,7 +49,7 @@
                                     </div>
                                 </div>
                                 <div class="text-center mt-4">
-                                    <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="order_medicine2.html" role="button">Confirm</a>
+                                    <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="order_medicine2.php" role="button">Confirm</a>
                                 </div>
 
                             </form>

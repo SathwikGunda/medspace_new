@@ -45,16 +45,16 @@
                                                 <i class="fa fa-lock prefix grey-text"></i>
                                                 <input type="text" id="" class="form-control">
                                                 <label for="">Password</label>
-                                                <p class="font-small blue-text d-flex justify-content-end"><a href="forgot_password.html" class="blue-text ml-1">Forgot Password?</a></p>
+                                                <p class="font-small blue-text d-flex justify-content-end"><a href="forgot_password.php" class="blue-text ml-1">Forgot Password?</a></p>
                                             </div>
                                             <div class="md-form">
                                                 <label for=""></label>
                                             </div>
                                             <div class="text-center">
-                                                <a id="" class="btn btn-primary btn-md btn-block waves-effect waves-light" href="index.html" role="button">Login</a>
+                                                <a id="" class="btn btn-primary btn-md btn-block waves-effect waves-light" href="index.php" role="button">Login</a>
                                             </div>
                                             <div class="md-form">
-                                                <p class="font-small d-flex justify-content-center">Not a member <a href="register.html" class="blue-text ml-1">Sign Up</a></p>
+                                                <p class="font-small d-flex justify-content-center">Not a member <a href="register.php" class="blue-text ml-1">Sign Up</a></p>
                                             </div>
                                         </form>
                                     </div>

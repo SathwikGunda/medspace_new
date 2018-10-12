@@ -17,7 +17,7 @@
                     <h1>Booking Confirmed</h1>
 
                     <div class="text-center mt-4">
-                        <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="track_order.html" role="button">Track Order</a>
+                        <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="track_order.php" role="button">Track Order</a>
                     </div>
 
                 </div>

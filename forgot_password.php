@@ -42,7 +42,7 @@
                                                 <label for="">Enter your email</label>
                                             </div>
                                             <div class="text-center">
-                                                <a id="" class="btn btn-primary btn-md btn-block mb-4 waves-effect waves-light" href="index.html" role="button">Submit</a>
+                                                <a id="" class="btn btn-primary btn-md btn-block mb-4 waves-effect waves-light" href="index.php" role="button">Submit</a>
                                             </div>
                                         </form>
                                     </div>

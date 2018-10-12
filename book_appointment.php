@@ -81,7 +81,7 @@
                                 </div>
 
                                 <div class="text-center mt-4">
-                                    <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="book_appointment2.html" role="button">Booking Confirmation</a>
+                                    <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="book_appointment2.php" role="button">Booking Confirmation</a>
                                 </div>
 
 

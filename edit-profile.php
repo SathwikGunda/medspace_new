@@ -60,7 +60,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <a href="my-profile.html" class="btn btn-sm btn-info text-center">
+                                <a href="my-profile.php" class="btn btn-sm btn-info text-center">
                                     Save Changes
                                 </a>
                             </form>

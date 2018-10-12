@@ -49,7 +49,7 @@
                                     </table>
 
                                     <div class="text-center mt-4">
-                                        <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="confirmation.html" role="button">Confirm</a>
+                                        <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="confirmation.php" role="button">Confirm</a>
                                     </div>
                                 </div>
 

@@ -11,7 +11,7 @@
             <div class="row">
 
                 <!--Grid column-->
-                <div class="col-md-8 mx-auto my-auto text-center">
+                <div class="col-md-8 mx-auto text-center">
 
                     <img src="img/confirm-booking.png" height="100px">
                     <h1>Booking Confirmed</h1>

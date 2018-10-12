@@ -11,7 +11,7 @@
             <div class="row">
 
                 <!--Grid column-->
-                <div class="col-md-9 mx-auto">
+                <div class="col-md-9 mx-auto mb-5">
 
                     <!--Card-->
                     <div class="card mb-4 wow fadeIn">
@@ -43,7 +43,7 @@
                                         </li>
                                     </ul>
                                     <div class="pull-right mt-0">
-                                        <a id="" class="btn btn-primary btn-sm mb-0 waves-effect waves-light" href="order_medicine1.html" role="button">Prescription Form</a>
+                                        <a id="" class="btn btn-primary btn-sm mb-0 waves-effect waves-light" href="#" role="button">Prescription Form</a>
                                     </div>
                                 </div>
                             </div>
@@ -83,7 +83,7 @@
                                         </li>
                                     </ul>
                                     <div class="pull-right mt-0">
-                                        <a id="" class="btn btn-primary btn-sm mb-0 waves-effect waves-light" href="order_medicine1.html" role="button">Prescription Form</a>
+                                        <a id="" class="btn btn-primary btn-sm mb-0 waves-effect waves-light" href="#" role="button">Prescription Form</a>
                                     </div>
                                 </div>
                             </div>

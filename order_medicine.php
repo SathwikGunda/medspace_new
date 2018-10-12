@@ -5,16 +5,16 @@
     <div class="container">
 
         <!--Section: Post-->
-        <section class="mt-4">
+        <section class="mt-5">
 
             <!--Grid row-->
             <div class="row">
 
                 <!--Grid column-->
-                <div class="col-md-8 mx-auto">
+                <div class="col-md-8 mx-auto mb-5">
 
                     <!--Reply-->
-                    <div class="card mb-3 wow fadeIn">
+                    <div class="card mb-4 wow fadeIn">
                         <div class="card-header font-weight-bold">Order Medicine</div>
                         <div class="card-body">
 
@@ -56,7 +56,7 @@
                                 </div>
 
                                 <div class="text-center mt-4">
-                                    <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="order_medicine1.html" role="button">Pay Bill</a>
+                                    <a id="" class="btn btn-primary btn-md mb-4 waves-effect waves-light" href="order_medicine1.php" role="button">Pay Bill</a>
                                 </div>
 
                             </form>

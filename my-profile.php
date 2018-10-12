@@ -5,15 +5,15 @@
     <div class="container">
 
         <!--Section: Post-->
-        <section class="mt-4">
+        <section class="mt-5">
 
             <!--Grid row-->
             <div class="row">
 
                 <!--Grid column-->
-                <div class="col-md-9 mx-auto">
+                <div class="col-md-9 mx-auto mt-4 mb-5">
 
-                    <div class="card">
+                    <div class="card mb-5">
                         <div class="card-header font-weight-bold">Order Medicine</div>
                         <div class="card-body">
                             <div class="row">

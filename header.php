@@ -17,7 +17,7 @@
     <link href="css/style.min.css" rel="stylesheet">
 </head>
 
-<body class="grey lighten-3">
+<body class="grey lighten-3" style="position:relative;">
 
     <!--Main Navigation-->
     <header>
