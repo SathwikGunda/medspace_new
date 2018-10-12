@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Material Design Bootstrap</title>
+    <title>Meedspace</title>
+    <link rel="shortcut icon" href="img/fav.png">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap core CSS -->
@@ -26,7 +27,7 @@
             <div class="container">
 
                 <!-- Brand -->
-                <a class="navbar-brand waves-effect" href="https://mdbootstrap.com/material-design-for-bootstrap/" target="_blank">
+                <a class="navbar-brand waves-effect" href="index.php">
                     <img src="img/logo.png" alt="medspace" height="auto" width="100">
                 </a>
 
@@ -41,35 +42,35 @@
                     <!-- Left -->
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">
-                            <a class="nav-link waves-effect" href="#">Home
+                            <a class="nav-link waves-effect" href="index.php">Home
                                 <span class="sr-only">(current)</span>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link waves-effect" href="book_appointment.html">Book Appointment</a>
+                            <a class="nav-link waves-effect" href="book_appointment.php">Book Appointment</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link waves-effect" href="order_medicine.html">Order Medicine</a>
+                            <a class="nav-link waves-effect" href="order_medicine.php">Order Medicine</a>
                         </li>
                     </ul>
 
                     <!-- Right -->
                     <ul class="navbar-nav nav-flex-icons">
                         <li class="nav-item mr-2">
-                            <a href="login.html" class="nav-link border border-light rounded waves-effect">
+                            <a href="login.php" class="nav-link border border-light rounded waves-effect">
                                 <i class="fa fa-github mr-2"></i>Login
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="register.html" class="nav-link border border-light rounded waves-effect">
+                            <a href="register.php" class="nav-link border border-light rounded waves-effect">
                                 <i class="fa fa-github mr-2"></i>Register
                             </a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">John Deo</a>
                             <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-                                <a class="dropdown-item" href="my_profile.html">My Profile</a>
-                                <a class="dropdown-item" href="my_orders.html">My Orders</a>
+                                <a class="dropdown-item" href="my-profile.php">My Profile</a>
+                                <a class="dropdown-item" href="my_orders.php">My Orders</a>
                                 <a class="dropdown-item" href="#">Sign Out</a>
                             </div>
                         </li>

@@ -1,10 +1,10 @@
     <!--Footer-->
-    <footer class="page-footer text-center font-small mdb-color darken-2 mt-4" style="position:absolute;bottom:0px;width:100%">
+    <footer class="page-footer text-center font-small mdb-color darken-2 mt-4">
 
         <!--Copyright-->
         <div class="footer-copyright py-3">
             © 2018 Copyright:
-            <a href="https://mdbootstrap.com/bootstrap-tutorial/" target="_blank"> Medspace.com </a>
+            <a href="#"> Medspace.com </a>
         </div>
         <!--/.Copyright-->
 
