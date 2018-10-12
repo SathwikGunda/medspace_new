@@ -28,7 +28,7 @@
 
                 <!-- Brand -->
                 <a class="navbar-brand waves-effect" href="index.php">
-                    <img src="img/logo.png" alt="medspace" height="auto" width="100">
+                    <img src="img/logo1.png" alt="medspace" height="auto" width="100">
                 </a>
 
                 <!-- Collapse -->
