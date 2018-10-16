@@ -67,11 +67,11 @@
                                 <ul class="list-inline mb-0">
                                     <li class="list-inline-item mr-3">
                                         <i class="fa fa-building-o"></i>
-                                        <small>Department</small>
+                                        <small>1 Department(s)</small>
                                     </li>
                                     <li class="list-inline-item mr-3">
                                         <i class="fa fa-user-md"></i>
-                                        <small>Doctor</small>
+                                        <small>2 Doctor(s)</small>
                                     </li>
                                 </ul>
                                 <div class="pull-right mt-0">
@@ -99,11 +99,11 @@
                                 <ul class="list-inline mb-0">
                                     <li class="list-inline-item mr-3">
                                         <i class="fa fa-building-o"></i>
-                                        <small>Department</small>
+                                        <small>1 Department(s)</small>
                                     </li>
                                     <li class="list-inline-item mr-3">
                                         <i class="fa fa-user-md"></i>
-                                        <small>Doctor</small>
+                                        <small>2 Doctor(s)</small>
                                     </li>
                                 </ul>
                                 <div class="pull-right mt-0">
