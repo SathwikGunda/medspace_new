@@ -35,11 +35,11 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group mb-0">
-                                        <input type="text" class="form-control">
+                                        <input type="text" class="form-control" placeholder="Search hospitals / departments">
                                     </div>
                                 </div>
                                 <div class="col-md-3">
-                                    <a href="" class="btn btn-outline-black btn-md mt-0">Search</a>
+                                    <a href="search.php" class="btn btn-outline-black btn-md mt-0">Search</a>
                                 </div>
                             </div>
 

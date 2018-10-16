@@ -20,7 +20,15 @@
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <!-- MDB core JavaScript -->
     <script type="text/javascript" src="js/mdb.min.js"></script>
+    <!-- MDBootstrap Datatables  -->
+    <script type="text/javascript" src="js/addons/datatables.min.js"></script>
     <!-- Initializations -->
+    <script>
+        $(document).ready(function () {
+          $('#dtBasicExample').DataTable();
+          $('.dataTables_length').addClass('bs-select');
+        });
+    </script>
     <script type="text/javascript">
         // Animations initialization
         new WOW().init();
