@@ -16,7 +16,7 @@
     <!-- MDBootstrap Datatables  -->
     <link href="css/addons/datatables.min.css" rel="stylesheet">
     <!-- Your custom styles (optional) -->
-    <link href="css/style.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 </head>
 
 <body class="grey lighten-3" style="position:relative;">
