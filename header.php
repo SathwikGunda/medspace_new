@@ -25,7 +25,7 @@
     <header>
 
         <!-- Navbar -->
-        <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar mdb-color darken-6">
+        <nav class="navbar navbar-expand-lg navbar-dark scrolling-navbar mdb-color darken-6">
             <div class="container">
 
                 <!-- Brand -->
@@ -60,12 +60,12 @@
                     <ul class="navbar-nav nav-flex-icons">
                         <li class="nav-item mr-2">
                             <a href="login.php" class="nav-link border border-light rounded waves-effect">
-                                <i class="fa fa-github mr-2"></i>Login
+                                <i class="fa fa-sign-in mr-2"></i>Login
                             </a>
                         </li>
                         <li class="nav-item">
                             <a href="register.php" class="nav-link border border-light rounded waves-effect">
-                                <i class="fa fa-github mr-2"></i>Register
+                                <i class="fa fa-user-plus mr-2"></i>Register
                             </a>
                         </li>
                         <li class="nav-item dropdown">
