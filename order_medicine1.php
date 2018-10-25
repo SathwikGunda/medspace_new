@@ -1,11 +1,11 @@
 <?php include('header.php'); ?>
 
 <!--Main layout-->
-<main class="mt-5 pt-5">
+<main class="pt-5">
     <div class="container">
 
         <!--Section: Post-->
-        <section class="mt-5">
+        <section class="mt-4">
 
             <!--Grid row-->
             <div class="row">

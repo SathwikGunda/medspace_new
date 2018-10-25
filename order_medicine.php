@@ -1,17 +1,17 @@
 <?php include('header.php'); ?>
 
 <!--Main layout-->
-<main class="mt-5 pt-5">
+<main class="pt-5">
     <div class="container">
 
         <!--Section: Post-->
-        <section class="mt-5">
+        <section class="mt-4 pt-2">
 
             <!--Grid row-->
-            <div class="row">
+            <div class="row pb-1">
 
                 <!--Grid column-->
-                <div class="col-md-8 mx-auto mb-5">
+                <div class="col-md-8 mx-auto mb-4 pb-2">
 
                     <!--Reply-->
                     <div class="card mb-4 wow fadeIn">
@@ -39,7 +39,7 @@
                                 </div>
 
                                 <div class="form-row">
-                                    <div class="col">
+                                    <div class="col6">
                                         <!-- First name -->
                                         <div class="form-group">
                                             <label for="">Upload Prescription report / details</label>

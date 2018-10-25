@@ -1,11 +1,11 @@
 <?php include('header.php'); ?>
 
 <!--Main layout-->
-<main class="mt-5 pt-5">
+<main class="mt-5 pt-5 mb-5 pb-5">
     <div class="container">
 
         <!--Section: Post-->
-        <section class="mt-4">
+        <section class="mt-5 pt-4 mb-5 pb-4">
 
             <!--Grid row-->
             <div class="row">
@@ -24,7 +24,7 @@
 
             <!-- Timeline -->
             <div class="row">
-                <div class="col-md-12">
+                <div class="col8 mx-auto text-center">
                     <div class="timeline-main">
                         <!-- Timeline Wrapper -->
                         <ul class="stepper stepper-horizontal timeline pl-0">

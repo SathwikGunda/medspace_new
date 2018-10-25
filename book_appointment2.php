@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
 <!--Main layout-->
-<main class="mt-5 pt-5">
+<main class="pt-5">
     <div class="container">
 
         <!--Section: Post-->
@@ -14,7 +14,7 @@
                 <div class="col-md-8 mx-auto">
 
                     <!--Reply-->
-                    <div class="card mb-3 wow fadeIn">
+                    <div class="card mb-5 wow fadeIn">
                         <div class="card-header font-weight-bold">Book Appointment</div>
                         <div class="card-body">
                             <form action="" method="">

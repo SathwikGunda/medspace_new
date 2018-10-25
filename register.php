@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Material Design Bootstrap</title>
+    <title>Medspace</title>
+    <link rel="shortcut icon" href="img/fav.png">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Bootstrap core CSS -->
@@ -66,10 +67,10 @@
                                                 <label for="">Phone Number</label>
                                             </div>
                                             <div class="text-center">
-                                                <a id="" class="btn btn-outline-primary btn-md btn-block mb-4 waves-effect waves-light" href="index.html" role="button">Sign Up</a>
+                                                <a id="" class="btn btn-outline-primary btn-md btn-block mb-4 waves-effect waves-light" href="index.php" role="button">Sign Up</a>
                                             </div>
                                             <div class="md-form">
-                                                <p class="font-small d-flex justify-content-center">Are you a already a member? <a href="login.html" class="blue-text ml-1">Login</a></p>
+                                                <p class="font-small d-flex justify-content-center">Are you a already a member? <a href="login.php" class="blue-text ml-1">Login</a></p>
                                             </div>
                                         </form>
                                     </div>
