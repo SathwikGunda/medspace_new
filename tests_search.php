@@ -53,7 +53,7 @@
                         <!--Card content-->
                         <div class="card-body">
 
-                            <div class="media d-block d-md-flex mt-3">
+                            <div class="media d-block d-md-flex">
                                 <img class="d-flex mb-3 mx-auto z-depth-1" src="https://mdbootstrap.com/img/Photos/Avatars/img (30).jpg" alt="Generic placeholder image" style="width: 100px;">
                                 <div class="media-body text-center text-md-left ml-md-3 ml-0">
                                     <h5 class="mt-0 font-weight-bold">Thyrocare</h5>
@@ -85,7 +85,7 @@
                         <!--Card content-->
                         <div class="card-body">
 
-                            <div class="media d-block d-md-flex mt-3">
+                            <div class="media d-block d-md-flex">
                                 <img class="d-flex mb-3 mx-auto z-depth-1" src="https://mdbootstrap.com/img/Photos/Avatars/img (30).jpg" alt="Generic placeholder image" style="width: 100px;">
                                 <div class="media-body text-center text-md-left ml-md-3 ml-0">
                                     <h5 class="mt-0 font-weight-bold">Thyrocare</h5>

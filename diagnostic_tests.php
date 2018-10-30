@@ -55,12 +55,12 @@
                             <!-- Card -->
                             <div class="card">
 
-                                <div class="card-img-top" style="background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2814%29.jpg);">
+                                <div class="card-img-top" style="background-image: url(img/tests.jpg);">
 
                                     <!-- Content -->
                                     <div class="text-white rgba-black-strong py-4 px-4">
                                         <div>
-                                            <h3 class="card-title mb-0"><strong>Young India Health Checkup</strong></h3>
+                                            <h4 class="card-title mb-0"><strong>Young India Health Checkup</strong></h4>
                                             <small>Lorem ipsum dolor sit amet</small>
                                         </div>
                                     </div>
@@ -91,7 +91,7 @@
 
                                 </div>
 
-                                <div class="card-footer bt-none mdb-color lighten-5 pb-2">
+                                <div class="card-footer bt-none mdb-color lighten-5 pb-2" style="border-top:none;">
 
                                     <div class="d-inline-block d-md-flex">
                                         <label class="text-white font-weight-bold green lighten-1 p-1">50% Off</label>
@@ -112,12 +112,12 @@
                             <!-- Card -->
                             <div class="card">
 
-                                <div class="card-img-top" style="background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2814%29.jpg);">
+                                <div class="card-img-top" style="background-image: url(img/tests.jpg);">
 
                                     <!-- Content -->
                                     <div class="text-white rgba-black-strong py-4 px-4">
                                         <div>
-                                            <h3 class="card-title mb-0"><strong>Young India Health Checkup</strong></h3>
+                                            <h4 class="card-title mb-0"><strong>Young India Health Checkup</strong></h4>
                                             <small>Lorem ipsum dolor sit amet</small>
                                         </div>
                                     </div>
@@ -148,7 +148,7 @@
 
                                 </div>
 
-                                <div class="card-footer bt-none mdb-color lighten-5 pb-2">
+                                <div class="card-footer bt-none mdb-color lighten-5 pb-2" style="border-top:none;">
 
                                     <div class="d-inline-block d-md-flex">
                                         <label class="text-white font-weight-bold green lighten-1 p-1">50% Off</label>
@@ -169,12 +169,12 @@
                             <!-- Card -->
                             <div class="card">
 
-                                <div class="card-img-top" style="background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2814%29.jpg);">
+                                <div class="card-img-top" style="background-image: url(img/tests.jpg);">
 
                                     <!-- Content -->
                                     <div class="text-white rgba-black-strong py-4 px-4">
                                         <div>
-                                            <h3 class="card-title mb-0"><strong>Young India Health Checkup</strong></h3>
+                                            <h4 class="card-title mb-0"><strong>Young India Health Checkup</strong></h4>
                                             <small>Lorem ipsum dolor sit amet</small>
                                         </div>
                                     </div>
@@ -205,7 +205,7 @@
 
                                 </div>
 
-                                <div class="card-footer bt-none mdb-color lighten-5 pb-2">
+                                <div class="card-footer bt-none mdb-color lighten-5 pb-2" style="border-top:none;">
 
                                     <div class="d-inline-block d-md-flex">
                                         <label class="text-white font-weight-bold green lighten-1 p-1">50% Off</label>
