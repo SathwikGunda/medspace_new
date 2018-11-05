@@ -52,71 +52,39 @@
 
                             <div class="">
                                 <h5 class="mt-0 font-weight-bold">All Tests</h5>
-                                <input type="text" class="form-control" name="" id="" placeholder="Search all tests in thyrocare" style="width:70%;">
+                                <input type="text" class="form-control" name="" id="myInput" onkeyup="myFunction()" placeholder="Search all tests in thyrocare" style="width:70%;">
                             </div>
 
-                            <hr>
+                            <ul id="myUL" class="list-unstyled">
+                                <li><a href="#">Adele</a></li>
+                                <li><a href="#">Agnes</a></li>
 
-                            <div class="d-block d-md-flex pb-0">
-                                <div class="mt-2">
-                                    <h6 class="mb-1">FISH - AMLI / ETO IN AML M - 2</h6>
-                                    <small>Also known as: Amli/Eto In Aml M2 Fish Blood.</small>
-                                </div>
-                                <div class="ml-auto">
-                                    <div class="d-block d-md-flex">
-                                        <p class="mb-0 font-weight-bold mt-2"><span>&#8377;</span><span>8561</span></p>
-                                        <a id="" class="btn btn-outline-primary btn-sm ml-5" href="#" role="button">Book</a>
-                                    </div>
-                                    <div class="">
-                                        <ul class="list-unstyled">
-                                            <li class=""><span>&#8226;</span> <small>Lorem ipsum</small></li>
-                                            <li class=""><span>&#8226;</span> <small>Phasellus iaculis</small></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
+                                <li><a href="#">Billy</a></li>
+                                <li><a href="#">Bob</a></li>
 
-                            <hr class="mt-0">
-
-                            <div class="d-block d-md-flex pb-0">
-                                <div class="mt-2">
-                                    <h6 class="mb-1">FISH - AMLI / ETO IN AML M - 2</h6>
-                                    <small>Also known as: Amli/Eto In Aml M2 Fish Blood.</small>
-                                </div>
-                                <div class="ml-auto">
-                                    <div class="d-block d-md-flex">
-                                        <p class="mb-0 font-weight-bold mt-2"><span>&#8377;</span><span>8561</span></p>
-                                        <a id="" class="btn btn-outline-primary btn-sm ml-5" href="#" role="button">Book</a>
+                                <li><a href="#">Calvin</a></li>
+                                <li><a href="#">Christina</a></li>
+                                <li><a href="#">sathwik</a></li>
+                                <li>
+                                    <hr>
+                                    <div class="d-block d-md-flex pb-0">
+                                        <div class="mt-2">
+                                            <h6 class="mb-1"><a href="#" class="">FISH - AMLI / ETO IN AML M - 2</a></h6>
+                                            <small>Also known as: Amli/Eto In Aml M2 Fish Blood.</small>
+                                        </div>
+                                        <div class="ml-auto">
+                                            <div class="d-block d-md-flex">
+                                                <p class="mb-0 font-weight-bold mt-2"><span>&#8377;</span><span>8561</span></p>
+                                                <a id="" class="btn btn-outline-primary btn-sm ml-5" href="#" role="button">Book</a>
+                                            </div>
+                                            <div class="">
+                                                <p class="mb-0"><span>&#8226;</span> <small>Lorem ipsum</small></p>
+                                                <p class="mb-3"><span>&#8226;</span> <small>Phasellus iaculis</small></p>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="">
-                                        <ul class="list-unstyled">
-                                            <li class=""><span>&#8226;</span> <small>Lorem ipsum</small></li>
-                                            <li class=""><span>&#8226;</span> <small>Phasellus iaculis</small></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <hr class="mt-0">
-
-                            <div class="d-block d-md-flex pb-0">
-                                <div class="mt-2">
-                                    <h6 class="mb-1">FISH - AMLI / ETO IN AML M - 2</h6>
-                                    <small>Also known as: Amli/Eto In Aml M2 Fish Blood.</small>
-                                </div>
-                                <div class="ml-auto">
-                                    <div class="d-block d-md-flex">
-                                        <p class="mb-0 font-weight-bold mt-2"><span>&#8377;</span><span>8561</span></p>
-                                        <a id="" class="btn btn-outline-primary btn-sm ml-5" href="#" role="button">Book</a>
-                                    </div>
-                                    <div class="">
-                                        <ul class="list-unstyled">
-                                            <li class=""><span>&#8226;</span> <small>Lorem ipsum</small></li>
-                                            <li class=""><span>&#8226;</span> <small>Phasellus iaculis</small></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
+                                </li>
+                            </ul>
 
                         </div>
 
@@ -188,5 +156,22 @@
 </main>
 <!--Main layout-->
 
-
 <?php include('footer.php'); ?>
+
+<script>
+    function myFunction() {
+        var input, filter, ul, li, a, i;
+        input = document.getElementById("myInput");
+        filter = input.value.toUpperCase();
+        ul = document.getElementById("myUL");
+        li = ul.getElementsByTagName("li");
+        for (i = 0; i < li.length; i++) {
+            a = li[i].getElementsByTagName("a")[0];
+            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                li[i].style.display = "";
+            } else {
+                li[i].style.display = "none";
+            }
+        }
+    }
+</script>
